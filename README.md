@@ -1,4 +1,4 @@
-![](example.gif)
+![](overview-gif.gif)
 
 ## Note
 Due to this project being part of the HyperionDev bootcamp, the source code is available in a private repository
