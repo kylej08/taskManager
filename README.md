@@ -25,7 +25,7 @@ The full menu list is as follows:
 ## Who will benefit?
 Anybody new to python utilising console based output.
 
-# Contribution
+# Improvements
 Aspects of the program that can be improved:
 1. A lightweight database (e.g SQLite) can be used to store all external information, instead of text files.
 2. OOP can be implemented (e.g creating classes for objects, users etc).
