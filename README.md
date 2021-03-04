@@ -25,13 +25,6 @@ The full menu list is as follows:
 ## Who will benefit?
 Anybody new to python utilising console based output.
 
-# Installation
-Feel free to contact me via email to setup a call so that I can do a screen-share of the program.
-If however, you prefer to do the setup on your own, below are the necessary steps:
-
-1. Head over to python's main website (https://www.python.org/downloads/) to download and install python.
-2. Download IDLE (Integrated Development Environment) for you to run the program.
-
 # Contribution
 Aspects of the program that can be improved:
 1. A lightweight database (e.g SQLite) can be used to store all external information, instead of text files.
