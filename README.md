@@ -4,7 +4,7 @@
 
 ## Note
 Due to this project being part of the HyperionDev bootcamp, the source code is available in a private repository.
-Please contact me if you would like an invitation to the private policy.
+Please contact me if you would like an invitation to the private repository.
 
 # An overview
 
