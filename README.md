@@ -31,9 +31,6 @@ Aspects of the program that can be improved:
 2. OOP can be implemented (e.g creating classes for objects, users etc).
 3. A GUI can be created to make it more user-friendly.
 
-# Licensing
-There is no formal licensing for this program, however any distribution, modification and it being packaged to be sold is NOT permissible. Permission will be given by myself for you to download and use the program on your computer, however please remove it once you are done with it.
-
 # Contact information
 If you have any further questions, feel free to reach out to me at:
 - Email: kylejulies8@gmail.com
